@@ -1,7 +1,7 @@
 [
  {
   "id": "8a0906a250dff77",
-  "title": "Українська мова. Частина 1",
+  "title": "Українська мова",
   "subject": "ukr_lang",
   "type": "textbook",
   "grades": [
@@ -12,44 +12,20 @@
   ],
   "description": "О. Заболотний, В. Заболотний",
   "body": "",
-  "pages": 138,
+  "pages": 277,
   "published": true,
-  "file_url": "https://forsazh-lnz.github.io/books4/files/6-ukr_lang-zabolotnyi-1.pdf",
+  "file_url": "https://forsazh-lnz.github.io/books4/files/6-ukr_lang-zabolotnyi.pdf",
   "file_type": "application/pdf",
-  "file_name": "6-ukr_lang-zabolotnyi-1.pdf",
-  "file_size": 67039495,
-  "cover_url": "https://forsazh-lnz.github.io/books4/covers/6-ukr_lang-zabolotnyi-1.jpg",
+  "file_name": "6-ukr_lang-zabolotnyi.pdf",
+  "file_size": 89333033,
+  "cover_url": "https://forsazh-lnz.github.io/books4/covers/6-ukr_lang-zabolotnyi.jpg",
   "created": "2026-11-15 11:17:03.000Z",
-  "updated": "2026-11-15 11:17:03.000Z",
-  "mono": false
- },
- {
-  "id": "b0d096377c6d87a",
-  "title": "Українська мова. Частина 2",
-  "subject": "ukr_lang",
-  "type": "textbook",
-  "grades": [
-   "6"
-  ],
-  "sections": [
-   "library"
-  ],
-  "description": "О. Заболотний, В. Заболотний",
-  "body": "",
-  "pages": 139,
-  "published": true,
-  "file_url": "https://forsazh-lnz.github.io/books4/files/6-ukr_lang-zabolotnyi-2.pdf",
-  "file_type": "application/pdf",
-  "file_name": "6-ukr_lang-zabolotnyi-2.pdf",
-  "file_size": 72959608,
-  "cover_url": "https://forsazh-lnz.github.io/books4/covers/6-ukr_lang-zabolotnyi-1.jpg",
-  "created": "2026-11-15 11:17:03.000Z",
-  "updated": "2026-11-15 11:17:03.000Z",
+  "updated": "2026-11-15 20:01:14.000Z",
   "mono": false
  },
  {
   "id": "562b87bf0fb2420",
-  "title": "Історія України. Всесвітня історія. Частина 1",
+  "title": "Історія України. Всесвітня історія",
   "subject": "history_ua",
   "type": "textbook",
   "grades": [
@@ -60,39 +36,15 @@
   ],
   "description": "О. Бандровський, В. Власов, О. Данилевська",
   "body": "",
-  "pages": 130,
+  "pages": 260,
   "published": true,
-  "file_url": "https://forsazh-lnz.github.io/books4/files/6-history_ua-bandrovskyi-1.pdf",
+  "file_url": "https://forsazh-lnz.github.io/books4/files/6-history_ua-bandrovskyi.pdf",
   "file_type": "application/pdf",
-  "file_name": "6-history_ua-bandrovskyi-1.pdf",
-  "file_size": 68355742,
-  "cover_url": "https://forsazh-lnz.github.io/books4/covers/6-history_ua-bandrovskyi-1.jpg",
+  "file_name": "6-history_ua-bandrovskyi.pdf",
+  "file_size": 91860978,
+  "cover_url": "https://forsazh-lnz.github.io/books4/covers/6-history_ua-bandrovskyi.jpg",
   "created": "2026-11-15 11:17:03.000Z",
-  "updated": "2026-11-15 11:17:03.000Z",
-  "mono": false
- },
- {
-  "id": "b62688ed0c77c9a",
-  "title": "Історія України. Всесвітня історія. Частина 2",
-  "subject": "history_ua",
-  "type": "textbook",
-  "grades": [
-   "6"
-  ],
-  "sections": [
-   "library"
-  ],
-  "description": "О. Бандровський, В. Власов, О. Данилевська",
-  "body": "",
-  "pages": 130,
-  "published": true,
-  "file_url": "https://forsazh-lnz.github.io/books4/files/6-history_ua-bandrovskyi-2.pdf",
-  "file_type": "application/pdf",
-  "file_name": "6-history_ua-bandrovskyi-2.pdf",
-  "file_size": 70819438,
-  "cover_url": "https://forsazh-lnz.github.io/books4/covers/6-history_ua-bandrovskyi-1.jpg",
-  "created": "2026-11-15 11:17:03.000Z",
-  "updated": "2026-11-15 11:17:03.000Z",
+  "updated": "2026-11-15 20:01:14.000Z",
   "mono": false
  },
  {
@@ -370,7 +322,7 @@
  },
  {
   "id": "e9fb13b3e06dab3",
-  "title": "Географія. Частина 1",
+  "title": "Географія",
   "subject": "geography",
   "type": "textbook",
   "grades": [
@@ -381,15 +333,15 @@
   ],
   "description": "С. Кобернік, Р. Коваленко",
   "body": "",
-  "pages": 125,
+  "pages": 273,
   "published": true,
-  "file_url": "https://forsazh-lnz.github.io/books4/files/7-geography-kobernik-1.pdf",
+  "file_url": "https://forsazh-lnz.github.io/books4/files/7-geography-kobernik.pdf",
   "file_type": "application/pdf",
-  "file_name": "7-geography-kobernik-1.pdf",
-  "file_size": 57843833,
-  "cover_url": "https://forsazh-lnz.github.io/books4/covers/7-geography-kobernik-1.jpg",
+  "file_name": "7-geography-kobernik.pdf",
+  "file_size": 40411830,
+  "cover_url": "https://forsazh-lnz.github.io/books4/covers/7-geography-kobernik.jpg",
   "created": "2026-11-15 11:17:03.000Z",
-  "updated": "2026-11-15 11:17:03.000Z",
+  "updated": "2026-11-15 20:01:14.000Z",
   "mono": false,
   "chapters": [
    {
@@ -556,201 +508,175 @@
     "t": "§ 25. Населення та політична карта Південної Америки",
     "p": 119,
     "l": 1
-   }
-  ]
- },
- {
-  "id": "1a9fba96a79ea3a",
-  "title": "Географія. Частина 2",
-  "subject": "geography",
-  "type": "textbook",
-  "grades": [
-   "7"
-  ],
-  "sections": [
-   "library"
-  ],
-  "description": "С. Кобернік, Р. Коваленко",
-  "body": "",
-  "pages": 148,
-  "published": true,
-  "file_url": "https://forsazh-lnz.github.io/books4/files/7-geography-kobernik-2.pdf",
-  "file_type": "application/pdf",
-  "file_name": "7-geography-kobernik-2.pdf",
-  "file_size": 80663294,
-  "cover_url": "https://forsazh-lnz.github.io/books4/covers/7-geography-kobernik-1.jpg",
-  "created": "2026-11-15 11:17:03.000Z",
-  "updated": "2026-11-15 11:17:03.000Z",
-  "mono": false,
-  "chapters": [
+   },
    {
     "t": "Тема 3. Австралія",
-    "p": 1,
+    "p": 126,
     "l": 0
    },
    {
     "t": "§ 26. Фізико-географічне положення, берегова лінія та відкриття Австралії",
-    "p": 1,
+    "p": 126,
     "l": 1
    },
    {
     "t": "§ 27. Тектонічні структури, рельєф і корисні копалини Австралії",
-    "p": 5,
+    "p": 130,
     "l": 1
    },
    {
     "t": "§ 28. Клімат і води суходолу Австралії",
-    "p": 8,
+    "p": 133,
     "l": 1
    },
    {
     "t": "§ 29. Унікальність органічного світу Австралії. Населення",
-    "p": 14,
+    "p": 139,
     "l": 1
    },
    {
     "t": "§ 30. Океанія",
-    "p": 19,
+    "p": 144,
     "l": 1
    },
    {
     "t": "Розділ ІІІ. Полярний материк антарктида",
-    "p": 25,
+    "p": 150,
     "l": 0
    },
    {
     "t": "§ 31. Загальні відомості про Антарктиду",
-    "p": 25,
+    "p": 150,
     "l": 1
    },
    {
     "t": "§ 32. Природа Антарктиди",
-    "p": 30,
+    "p": 155,
     "l": 1
    },
    {
     "t": "Розділ ІV. Материки північної півкулі",
-    "p": 39,
+    "p": 164,
     "l": 0
    },
    {
     "t": "Тема 1. Північна Америка",
-    "p": 39,
+    "p": 164,
     "l": 0
    },
    {
     "t": "§ 33. Фізико-географічне положення, берегова лінія та дослідження Північної Америки",
-    "p": 39,
+    "p": 164,
     "l": 1
    },
    {
     "t": "§ 34. Тектонічні структури, рельєф і корисні копалини Північної Америки",
-    "p": 43,
+    "p": 168,
     "l": 1
    },
    {
     "t": "§ 35. Клімат Північної Америки",
-    "p": 49,
+    "p": 174,
     "l": 1
    },
    {
     "t": "§ 36. Води суходолу Північної Америки",
-    "p": 54,
+    "p": 179,
     "l": 1
    },
    {
     "t": "§ 37. Природні зони Північної Америки. Арктичні пустелі. Тундра. Ліси помірного поясу",
-    "p": 59,
+    "p": 184,
     "l": 1
    },
    {
     "t": "§ 38. Перемінно-вологі ліси. Степи. Пустелі й напівпустелі. Вертикальна поясність гір",
-    "p": 66,
+    "p": 191,
     "l": 1
    },
    {
     "t": "§ 39. Населення та політична карта Північної Америки",
-    "p": 71,
+    "p": 196,
     "l": 1
    },
    {
     "t": "Тема 2. Євразія",
-    "p": 79,
+    "p": 204,
     "l": 0
    },
    {
     "t": "§ 40. Фізико-географічне положення та берегова лінія Євразії",
-    "p": 79,
+    "p": 204,
     "l": 1
    },
    {
     "t": "§ 41. Дослідження окремих частин Євразії",
-    "p": 83,
+    "p": 208,
     "l": 1
    },
    {
     "t": "§ 42. Тектонічні структури, рельєф і корисні копалини Євразії",
-    "p": 86,
+    "p": 211,
     "l": 1
    },
    {
     "t": "§ 43. Загальні риси клімату Євразії",
-    "p": 91,
+    "p": 216,
     "l": 1
    },
    {
     "t": "§ 44. Кліматичні пояси та типи клімату Євразії",
-    "p": 96,
+    "p": 221,
     "l": 1
    },
    {
     "t": "§ 45. Води суходолу Євразії. Річки",
-    "p": 99,
+    "p": 224,
     "l": 1
    },
    {
     "t": "§ 46. Озера. Льодовики та багаторічна мерзлота",
-    "p": 103,
+    "p": 228,
     "l": 1
    },
    {
     "t": "§ 47. Природні зони Євразії. Тайга. Широколисті ліси. Субтропічні ліси й чагарники",
-    "p": 107,
+    "p": 232,
     "l": 1
    },
    {
     "t": "§ 48. Перемінно-вологі ліси. Степи. Пустелі й напівпустелі",
-    "p": 113,
+    "p": 238,
     "l": 1
    },
    {
     "t": "§ 49. Савани. Гілеї. Вертикальна поясність",
-    "p": 118,
+    "p": 243,
     "l": 1
    },
    {
     "t": "§ 50. Населення та політична карта Євразії",
-    "p": 123,
+    "p": 248,
     "l": 1
    },
    {
     "t": "Розділ V. Закономірності формування природи океанів",
-    "p": 131,
+    "p": 256,
     "l": 0
    },
    {
     "t": "§ 51. Закономірності формування рельєфу дна океанів",
-    "p": 131,
+    "p": 256,
     "l": 1
    },
    {
     "t": "§ 52. Закономірності формування водних мас океанів",
-    "p": 137,
+    "p": 262,
     "l": 1
    },
    {
     "t": "§ 53. Органічний світ та екологічні проблеми океанів",
-    "p": 141,
+    "p": 266,
     "l": 1
    }
   ]
